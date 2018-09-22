@@ -1,0 +1,101 @@
+[
+    [
+        "C:\\Users\\tajisingh\\Documents\\trailheadx\\myPocWork\\myPoc\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\tajisingh\\Documents\\trailheadx\\myPocWork\\myPoc\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537638182576,
+            "changeTime": 1537638182576,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\tajisingh\\Documents\\trailheadx\\myPocWork\\myPoc\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\tajisingh\\Documents\\trailheadx\\myPocWork\\myPoc\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537638182592,
+            "changeTime": 1537638182592,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\tajisingh\\Documents\\trailheadx\\myPocWork\\myPoc\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\tajisingh\\Documents\\trailheadx\\myPocWork\\myPoc\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537639002169,
+            "changeTime": 1537639002169,
+            "contentHash": "8cb74eb324f735bd16f2bf66109ef3edb47deca9"
+        }
+    ],
+    [
+        "C:\\Users\\tajisingh\\Documents\\trailheadx\\myPocWork\\myPoc\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\tajisingh\\Documents\\trailheadx\\myPocWork\\myPoc\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537638182592,
+            "changeTime": 1537638182592,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\tajisingh\\Documents\\trailheadx\\myPocWork\\myPoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\tajisingh\\Documents\\trailheadx\\myPocWork\\myPoc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537638881299,
+            "changeTime": 1537638881299,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\tajisingh\\Documents\\trailheadx\\myPocWork\\myPoc\\force-app\\main\\default\\profiles\\SuperAdmin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\tajisingh\\Documents\\trailheadx\\myPocWork\\myPoc\\force-app\\main\\default\\profiles\\SuperAdmin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17974,
+            "modifiedTime": 1537639002179,
+            "changeTime": 1537639002179,
+            "contentHash": "8c74b69de255ba0acc113d6248539dccaa34aa2a"
+        }
+    ],
+    [
+        "C:\\Users\\tajisingh\\Documents\\trailheadx\\myPocWork\\myPoc\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\tajisingh\\Documents\\trailheadx\\myPocWork\\myPoc\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537639002178,
+            "changeTime": 1537639002178,
+            "contentHash": "d1160a5c11dd2a30ccef0788329e6dcb34e1118b"
+        }
+    ]
+]
